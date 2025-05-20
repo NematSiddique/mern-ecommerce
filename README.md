@@ -4,20 +4,12 @@ A modern, full-stack e-commerce web application built with React, Vite, Zustand,
 
 ---
 
-## Table of Contents
+## Deployment
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Environment Variables](#environment-variables)
-  - [Installation](#installation)
-  - [Running the App](#running-the-app)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Development](#development)
-- [License](#license)
+The project is deployed at:  
+[https://mern-ecommerce-jd74.onrender.com/](https://mern-ecommerce-jd74.onrender.com/)
+
+You can visit the deployed application to explore all features live.
 
 ---
 
@@ -129,7 +121,7 @@ NODE_ENV=development
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/e-commerce.git
+   git clone https://github.com/NematSiddique/mern-ecommerce.git
    cd e-commerce
    ```
 
@@ -225,12 +217,6 @@ npm run dev
   ```sh
   npm run build
   ```
-
----
-
-## License
-
-This project is licensed under the MIT License.
 
 ---
 
