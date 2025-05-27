@@ -40,7 +40,6 @@ You can visit the deployed application to explore all features live.
 - Framer Motion
 - React Hot Toast
 - Stripe.js
-- Lucide React Icons
 
 **Backend:**
 - Node.js
